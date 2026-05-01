@@ -19,7 +19,6 @@
 ---
 
 ### 🛠️ Tech Stack & Skills
-### 🛠️ Tech Stack & Skills
 
 #### 🌐 Programming Languages
 <p align="left">
