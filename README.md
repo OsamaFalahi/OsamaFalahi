@@ -1,4 +1,4 @@
-# <p align="center"> Hey, I'm Osama Alfalahi </p>
+# <p align="center"> Hey, I'm Osama Alfalahi 👋</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
