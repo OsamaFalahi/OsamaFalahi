@@ -34,8 +34,8 @@
 ### 📊 GitHub Activity
 <p align="center">
 <!-- إذا لم تظهر هذه الصور، تأكد من استبدال YOUR_USERNAME باسم مستخدم جيت هاب الخاص بك بدقة -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=OsamaFalahi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OsamaFalahi&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
